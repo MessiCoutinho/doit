@@ -1,2 +1,3 @@
 # doit
 just a repository
+今天 喝水被呛着了。喷了面前的显示器一大口，囧...
